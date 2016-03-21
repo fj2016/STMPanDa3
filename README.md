@@ -9,6 +9,7 @@ This respository consists of two main parts:
 #STM32 project
 
 A CooCox IDE project used for the controller part. Written in C, its main purpose is to send accelerometer data to the PC running the game.
+<<<<<<< HEAD
 
 #Unity project
 
@@ -20,6 +21,16 @@ CooCox IDe,
 Unity Engine,
 Visual Studio,
 Gimp,
+=======
+Unity project
+The game itself including the STM connector and one sample level.
+
+Tools
+CooCox IDe
+Unity Engine
+Visual Studio
+Gimp
+>>>>>>> origin/master
 
 
 
