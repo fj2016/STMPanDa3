@@ -37,12 +37,12 @@ Gimp
 
 #Credits
 
-Miko³aj Drygas
+Mikolaj Drygas
 
-Sebastian Szeszko
+Sebastian Czeczko
  
 The project was conducted during the Microprocessor Lab course held by the Institute of Control and Information Engineering, Poznan University of Technology.
-Supervisor: Micha³ Fularz/Tomasz Mañkowski
+Supervisor: Michal Fularz/Tomasz MaÃ±kowski
 
 
 
