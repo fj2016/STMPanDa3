@@ -37,7 +37,7 @@ Gimp
 
 #Credits
 
-Miko³aj Drygas
+Mikolaj Drygas
 
 Sebastian Szeszko
  
